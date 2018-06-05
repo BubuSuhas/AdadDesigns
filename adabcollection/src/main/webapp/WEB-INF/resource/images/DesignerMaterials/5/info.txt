@@ -1,0 +1,13 @@
+PriceDollar:110
+PriceRS:1000
+ShippingRS:800
+Desc:Awesome piece in the heaven with beautify syle
+SizeAvailable:S,M,XL,XXL
+Colours:Single
+DeliveryTime:15 days
+InStock:True
+Discount:10%
+PushUpdate:True
+Rating:4
+Summary:Salwar Dress
+PriceAfterDiscount:80
